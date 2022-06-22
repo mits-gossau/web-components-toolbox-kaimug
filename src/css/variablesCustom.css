@@ -33,30 +33,24 @@
 
 :root {
   --a-color: var(--m-white);
-  --background-color: var(--m-black);
+  --background-color: #333333;
   --bg-color: var(--m-white);
-  --color-disabled: #97A619;
-  --color-hover: #737E13;
-  --color-secondary: #97A619;
+  --color-disabled: #CDB287;
+  --color-hover: #86754d;
+  --color-secondary: #CDB287;
   --color: var(--m-white);
-  --emotion-pictures-with-title-bg-background-color-custom: #97A619;
+  --emotion-pictures-with-title-bg-background-color-custom: none;
   --emotion-pictures-with-title-bg-color-custom: var(--m-white);
   --emotion-pictures-with-title-h2-font-family-secondary: var(--font-family-bold);
-  --emotion-pictures-with-title-h2-text-transform-custom: none;
   --font-family-bold: DINW01Bold, HelveticaNowTextBold, HelveticaNowText, Helvetica, Arial, sans-serif;
   --font-family-secondary: Avenir35Light, sans-serif;
   --font-family-tertiary: LucidaHandwritingW01Regular, sans-serif;
   --font-family: DINW01Regular, HelveticaNowText, Helvetica, Arial, sans-serif;
-  --footer-default-h4-color: #97A619;
-  --footer-default-invert-background-color-custom: #111111;
-  --footer-default-invert-color-custom: var(--m-white);
-  --footer-default-invert-orange-background-color-custom: var(--m-black);
   --footer-default-ul-list-style: none;
-  --header-default-a-logo-top-custom: calc(62px / 2 - 90px / 2);
+  --header-default-a-logo-top-custom: calc(62px / 2 - 160px / 2);
   --header-default-a-logo-top-mobile-custom: 0;
-  --header-default-a-menu-icon-background-color-custom: var(--color);
   --header-default-background-color-custom: var(--m-black);
-  --header-default-logo-width-custom: 90px;
+  --header-default-logo-width-custom: 160px;
   --navigation-default-a-link-text-transform-custom: uppercase;
   --navigation-default-color-custom: var(--m-white);
   --teaser-overlay-bg-color-custom: var(--m-white);
