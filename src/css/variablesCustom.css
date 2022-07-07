@@ -39,15 +39,14 @@
   --color-hover: #86754d;
   --color-secondary: #CDB287;
   --color: var(--m-white);
-  --emotion-pictures-with-title-bg-background-color-custom: none;
-  --emotion-pictures-with-title-bg-color-custom: var(--m-white);
   --emotion-pictures-with-title-h2-font-family-secondary: var(--font-family-bold);
+  --emotion-pictures-with-title-subline-padding: 0 0 0 0.5em;
   --font-family-bold: DINW01Bold, HelveticaNowTextBold, HelveticaNowText, Helvetica, Arial, sans-serif;
   --font-family-secondary: Avenir35Light, sans-serif;
   --font-family-tertiary: LucidaHandwritingW01Regular, sans-serif;
   --font-family: DINW01Regular, HelveticaNowText, Helvetica, Arial, sans-serif;
   --footer-default-ul-list-style: none;
-  --header-default-a-logo-top-custom: calc(62px / 2 - 160px / 2);
+  --header-default-a-logo-top-custom: calc(57px / 2 - 160px / 2);
   --header-default-a-logo-top-mobile-custom: 0;
   --header-default-background-color-custom: var(--m-black);
   --header-default-logo-width-custom: 160px;
@@ -56,5 +55,4 @@
   --teaser-overlay-bg-color-custom: var(--m-white);
   --teaser-plain-h2-margin-custom: 0;
   --teaser-tile-background-color-custom: var(--m-black);
-  --emotion-pictures-with-title-subline-padding: 0 0 0 0.5em;
 }
