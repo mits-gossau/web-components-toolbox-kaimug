@@ -57,4 +57,6 @@
   --teaser-overlay-bg-color-custom: var(--m-white);
   --teaser-plain-h2-margin-custom: 0;
   --teaser-tile-background-color-custom: var(--m-black);
+  --bg-line-height-secondary: 1.6em;
+  --picture-overflow-scale-up-image-rendering:auto;
 }
