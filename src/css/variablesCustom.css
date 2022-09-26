@@ -28,11 +28,9 @@
   --a-text-decoration-hover: none;
   --a-text-decoration: underline solid var(--color-secondary);
   --a-text-underline-offset: 0.2em;
-  --article-default-intro-font-size-custom: 1.1em;
-  --article-default-li-before-background-color-custom: var(--color-secondary);
-  --article-default-link-collection-padding-custom: 2em 0;
   --background-color: #333333;
   --bg-color: var(--m-white);
+  --bg-line-height-secondary: 1.6em;
   --bull-li-before-border-width: 0;
   --bull-li-before-height: 0.3125em;
   --bull-li-before-top: 0.625em;
@@ -52,9 +50,11 @@
   --header-default-logo-width-custom: 160px;
   --input-color: var(--m-black);
   --navigation-default-color-custom: var(--m-white);
+  --news-default-intro-font-size-custom: 1.1em;
+  --news-default-li-before-background-color-custom: var(--color-secondary);
+  --news-default-link-collection-padding-custom: 2em 0;
+  --picture-overflow-scale-up-image-rendering:auto;
   --teaser-overlay-bg-color-custom: var(--m-white);
   --teaser-plain-h2-margin-custom: 0;
   --teaser-tile-background-color-custom: var(--m-black);
-  --bg-line-height-secondary: 1.6em;
-  --picture-overflow-scale-up-image-rendering:auto;
 }
