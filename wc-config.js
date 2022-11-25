@@ -203,6 +203,11 @@
       selector: 'third-party-',
       url: 'web-components-toolbox/src/es/components/thirdParty/',
       separateFolder: true
+    },
+    {
+      selector: 'contentful-',
+      url: 'web-components-toolbox/src/es/components/contentful/',
+      separateFolder: true
     }
   ] // directories
   // ↑↑↑ adjustable ↑↑↑
